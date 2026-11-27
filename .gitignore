@@ -1,0 +1,7 @@
+reference.md
+report/
+screenshots/
+
+__pycache__/
+*.pyc
+.DS_Store
