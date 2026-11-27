@@ -2,7 +2,7 @@
 
 A small command line calculator written in Python.
 
-Supported operations: add, subtract, multiply, divide
+Supported operations: add, subtract, multiply, divide (results rounded to 4 decimals)
 
 ## Usage
 
